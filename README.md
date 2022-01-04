@@ -1,6 +1,5 @@
 # golang-task
 
 ### Available Routes
-```/encode - {method: Post, payload:{msgString:"Your messsage string"}}```
-```/decode - {method: Post. payload:{encString:"Your encoded string"}```
-
+1. ```/encode - {method: Post, payload:{msgString:"Your messsage string"}}```
+2. ```/decode - {method: Post. payload:{encString:"Your encoded string"}```
